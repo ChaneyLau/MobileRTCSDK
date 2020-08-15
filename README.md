@@ -1,2 +1,3 @@
 # MobileRTCSDK
- zoom sdk
+ 
+  Mobile Real-Time Communication SDK
