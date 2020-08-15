@@ -15,3 +15,4 @@ Pod::Spec.new do |s|
   s.resource               = "MobileRTCSDK/MobileRTCResources.bundle"
 
 end
+
