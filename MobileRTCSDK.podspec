@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name             = "MobileRTCSDK"
-  s.version          = "4.6.3"
+  s.version          = "4.6.4"
   s.summary          = "Mobile Real-Time Communication SDK"
   s.homepage         = "https://github.com/ChellyLau/MobileRTCSDK"
   s.license          = 'MIT'
